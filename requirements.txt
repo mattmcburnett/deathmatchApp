@@ -1,3 +1,8 @@
 Flask
 pymongo[srv]
 Flask-PyMongo
+-i https://pypi.org/simple
+flask-cors==4.0.1
+flask-login==0.6.3
+email-validator==2.2.0
+flask-wtf==1.2.1
